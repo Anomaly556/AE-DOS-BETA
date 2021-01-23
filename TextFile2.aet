@@ -1,0 +1,53 @@
+aetformat.aet(classed{699.453})
+Turtrial For Starter
+1.aes
+aes`s all lists :
+local
+send
+claim
+load
+save
+clicked
+sendfile
+camera
+string
+sudo
+redo
+undo
+grobal
+localhost
+create
+os
+open
+when
+sensor
+work
+clock
+tick
+cpu
+gpu
+ram
+memory
+driver
+drive
+disk
+system
+service
+print
+band
+freeze
+behavior
+classpath
+test
+proxy
+host
+example : 
+local.disk(
+sound.host.source
+ sound.path.lib_Sound_Local_SoundLoacl.aeko
+  play.host_localhost_pc
+end
+)
+end
+2.aep
+-=-=-=--=-=--=-==-=-COMING SOON!======-=----===-=-=-=

@@ -1,0 +1,108 @@
+Project.parent_solution1.txt
+presets(
+Commands(
+clear
+part
+cd <path>
+bash
+cp
+export
+home
+echo
+ls
+path
+pwd
+rm <path>
+sed
+sudo
+sort
+source
+uniq
+append
+assign
+backup <name>
+restore <name>
+break
+taskkill
+call
+chkdisk <Drive.letter>
+cmd 
+help
+date
+debug
+deflag
+dir
+diskcomp
+diskcopy
+drvspace
+edit
+lua
+exit
+find
+format <drive.letter>
+goto
+graphics
+join
+label
+mem
+mode
+move
+power
+setup <OS> 
+sys
+title
+time
+type
+test
+chg
+solve
+open
+install <accent>
+build
+run
+shutdown
+clear
+man
+reboot
+call
+comp
+compact
+convert
+diskpart
+start
+
+)
+cmd.waiting(
+$
+|
+!
+)
+system.emsg(
+error occured
+small memory usage
+sell failed
+wrong cmd
+{file.name}was not found.
+lost connection.
+your pc was not supported in {bitrate}bit.
+system error
+cannot open {errorocu.name}.
+fatal error
+computer is getting coruppted.
+script incorrect.
+cannot run backup data for {reason}.
+you must have to {sys.application.required.bytes} but your free space is {system.freespace}.
+your account is still locked.
+your account is terminated for {reason}.
+wrong password or mail address.
+)
+system.tag(
+{system.}
+{system.freespace}
+{system.}
+{file.}
+{bitrate}
+{reason}
+{memory.}
+)
+)

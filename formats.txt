@@ -1,0 +1,24 @@
+Filename.extension.settings
+script(
+aet - AE Turtrial
+aes - AE Script
+aep - AE Patch
+aes - AE Settings
+aeg - AE generation
+aeo - AE Operator
+)
+storage(
+aest - AE Storage
+aecst - AE Client Storage
+aec - AE Cache
+)
+data(
+sde - social defined
+dcx - data cache xsd
+)
+image(
+sol - sine osciltor
+ttm - timed tester meda
+aod - agolating disk
+pod - podding
+)
